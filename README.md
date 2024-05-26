@@ -1,8 +1,7 @@
 # 100x-dev
 Code base for 100x-dev course 
 
-## Week 1
-### Learning Javascript
+## Week 1: Learning Javascript
 - [x] 1.4  
 - [x] 1.5 
   - [x] 1. Async vs sync functions, real use of callbacks
